@@ -1,11 +1,18 @@
-# TEMPLATE-OWNED — repos created from this template must replace this file.
-
-# It is active here on purpose, and only here. In a repo created from this
-
-# template the `Template Bootstrap` workflow opens a pull request that resets
-
-# it on the first push to the default branch. See
-
-# .github/workflows/template-bootstrap.yml
-
-- @SallaApp/platform @jamalla2
+# CODEOWNERS — add your own owners below, then uncomment.
+#
+# This repo was created from SallaApp/cfworker-backend-starter and
+# inherited that template's CODEOWNERS. Replace the entries below
+# with your own team or reviewers.
+#
+# Listed owners are automatically requested for review on pull requests
+# that touch matching paths, and the SallaApp rulesets require their
+# approval to merge. While every line here is commented out this repo
+# has no code owners, so a pull request only needs one approval from
+# anyone with write access.
+#
+# Docs: https://docs.github.com/articles/about-code-owners
+#
+# Examples:
+# *            @SallaApp/your-team
+# /src/api/    @alice @bob
+# *.toml       @SallaApp/devops
