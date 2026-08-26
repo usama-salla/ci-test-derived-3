@@ -1,0 +1,11 @@
+# TEMPLATE-OWNED — repos created from this template must replace this file.
+
+# It is active here on purpose, and only here. In a repo created from this
+
+# template the `Template Bootstrap` workflow opens a pull request that resets
+
+# it on the first push to the default branch. See
+
+# .github/workflows/template-bootstrap.yml
+
+- @SallaApp/platform @jamalla2
